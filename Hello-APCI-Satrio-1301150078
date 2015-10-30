@@ -1,0 +1,6 @@
+Program Hello;
+usescrt;
+begin
+  clrscr;
+  writeln('Hello World'); //untuk mengeluarkan string 'Hello World' dilayar
+end
